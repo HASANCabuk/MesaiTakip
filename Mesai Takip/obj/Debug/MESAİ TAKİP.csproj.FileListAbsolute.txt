@@ -1,0 +1,22 @@
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.exe.config
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Form1.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Form2.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Properties.Resources.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csproj.GenerateResource.Cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.exe.config
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\bin\Debug\MESAİ TAKİP.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Form1.resources
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Form2.resources
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ_TAKİP.Properties.Resources.resources
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csproj.GenerateResource.Cache
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\GitHub Atılanlar\Github-Proje\MESAİ TAKİP\MESAİ TAKİP\obj\Debug\MESAİ TAKİP.pdb

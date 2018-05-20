@@ -1,0 +1,10 @@
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Release\MESAİ TAKİP.exe.config
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Release\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\bin\Release\MESAİ TAKİP.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ_TAKİP.Form1.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ_TAKİP.Form2.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ_TAKİP.Properties.Resources.resources
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ TAKİP.csproj.GenerateResource.Cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ TAKİP.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ TAKİP.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\MESAİ TAKİP\MESAİ TAKİP\obj\Release\MESAİ TAKİP.pdb
